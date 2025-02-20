@@ -1,8 +1,8 @@
 [run]
-source = project_name
+source = skogapi
 
 [report]
 omit =
     */python?.?/*
     */site-packages/nose/*
-    project_name/__main__.py
+    skogapi/__main__.py
